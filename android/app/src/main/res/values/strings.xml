@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">darumaTeste</string>
+    <string name="shared_preferences_nome">br.com.daruma.exemplo.darumamobile</string>
+
+    <string name="titulo_configuracao_inicial">Configurações</string>
+    <string name="titulo_menu_principal">DarumaMobile - Menu Principal</string>
+    <string name="titulo_teste_impressora">DarumaMobile - Exemplo Testes Impressora</string>
+
+    <string name="btn_emissao">Emissão</string>
+
+    <string name="btn_testar_impressora">Testar Impressora</string>
+
+    <!--Botões do Menu Principal -->
+    <string name="btn_retornos">Retornos</string>
+    <string name="btn_status_sat">Status SAT</string>
+    <string name="modelo_impressora">Modelo Impressora:</string>
+    <string name="tipo_de_comunica_o">Tipo de comunicação:</string>
+    <string name="nome_do_pareamento">Nome do pareamento:</string>
+    <string name="ip">IP:</string>
+    <string name="_192_168_0_10">192.168.0.10</string>
+    <string name="porta">Porta:</string>
+    <string name="_50000">50000</string>
+    <string name="salvar_configura_es">SALVAR CONFIGURAÇÕES</string>
+    <string name="salvando_configura_es">Salvando configurações...</string>
+    <string name="teste_bufferizado">Teste Bufferizado</string>
+    <string name="buffer_completo">Buffer Completo</string>
+    <string name="texto_formatado">Texto Formatado</string>
+    <string name="impress_o_qrcode">Impressão QrCode</string>
+    <string name="impress_o_c_d_barras">Impressão Cód. Barras</string>
+    <string name="texto_para_impress_o">Texto para impressão</string>
+    <string name="imprimir_texto_livre">Imprimir texto Livre</string>
+    <string name="insira_o_texto_que_deseja_imprimir">Insira o texto que deseja imprimir</string>
+    <string name="logotipo_daruma">Logotipo Daruma</string>
+    <string name="carregando_informa_es">Carregando informações...</string>
+    <string-array name="tipos_comunicacao">
+        <item>Bluetooth</item>
+        <item>Wi-fi</item>
+        <item>USB</item>
+        <item>Serial</item>
+    </string-array>
+    <string-array name="modelos_impressora">
+        <item>DRM380</item>
+        <item>DR800</item>
+        <item>DR700</item>
+    </string-array>
+</resources>
